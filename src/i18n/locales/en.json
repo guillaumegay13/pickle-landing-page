@@ -1,0 +1,116 @@
+{
+  "header": {
+    "features": "Features",
+    "reviews": "Reviews",
+    "pricing": "Pricing",
+    "terms": "Terms",
+    "privacy": "Privacy",
+    "download": "Download"
+  },
+  "hero": {
+    "title": "Eat Safely During Pregnancy",
+    "subtitle": "Scan your meals and menus to instantly know what's safe to eat during pregnancy. Pickle identifies pregnancy risks in seconds, giving you peace of mind.",
+    "headline": "Scan your <highlight>meals</highlight> and know what's <highlight>safe</highlight> to eat",
+    "description": "Simply scan or upload photos of your food or menu. Get instant insights on pregnancy safety, risks, and recommendations.",
+    "download": "Download App",
+    "learnMore": "Learn More"
+  },
+  "reviews": {
+    "title": "What expecting mothers say",
+    "testimonials": [
+      {
+        "quote": "Pickle gave me so much confidence when eating out during pregnancy. No more anxiety about what's safe!",
+        "author": "Emma Thompson",
+        "role": "Expecting Mother",
+        "rating": 5
+      },
+      {
+        "quote": "Finally, an app that understands pregnancy nutrition. The menu scanning feature is a game changer.",
+        "author": "Maria Rodriguez",
+        "role": "First-time Mom",
+        "rating": 5
+      },
+      {
+        "quote": "Clear, science-based recommendations that I can trust. Perfect for navigating pregnancy diet safely.",
+        "author": "Aisha Patel",
+        "role": "Nutritionist & Mom",
+        "rating": 5
+      }
+    ]
+  },
+  "features": {
+    "title": "How Pickle Works",
+    "subtitle": "Advanced food recognition technology that identifies pregnancy safety risks instantly",
+    "items": [
+      {
+        "title": "Scan Your Meal",
+        "description": "Take a photo or upload from gallery. Our AI identifies all ingredients and dishes."
+      },
+      {
+        "title": "Menu Analysis",
+        "description": "Scan restaurant menus to see which items are safe during pregnancy."
+      },
+      {
+        "title": "Instant Results",
+        "description": "Get clear safety ratings, risk explanations, and recommendations in seconds."
+      },
+      {
+        "title": "Expert Guidance",
+        "description": "Science-based recommendations from pregnancy nutrition experts."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "Choose the plan that works best for you and your team",
+    "plans": {
+      "free": {
+        "name": "Free",
+        "period": "forever",
+        "features": {
+          "scans": "10 scans per month",
+          "meals": "Basic meal analysis",
+          "menus": "Menu scanning",
+          "history": "Scan history",
+          "export": "Export options"
+        },
+        "button": "Start Free"
+      },
+      "pro": {
+        "name": "Pro",
+        "period": "per month",
+        "features": {
+          "scans": "Unlimited scans",
+          "meals": "Advanced meal analysis",
+          "menus": "Unlimited menu scanning",
+          "history": "Complete scan history",
+          "export": "Export to PDF, sharing options"
+        },
+        "button": "Go Pro"
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "period": "contact us",
+        "features": {
+          "everything": "Everything in Pro",
+          "security": "Advanced security",
+          "dashboard": "Admin dashboard",
+          "api": "API access",
+          "support": "24/7 Priority support"
+        },
+        "button": "Contact Sales"
+      }
+    }
+  },
+  "footer": {
+    "ready": "Ready to eat safely?",
+    "join": "Join thousands of expecting mothers who are making informed food choices with Pickle.",
+    "download": "Download Now",
+    "product": "Product",
+    "company": "Company"
+  },
+  "language": {
+    "en": "English",
+    "fr": "French"
+  }
+}

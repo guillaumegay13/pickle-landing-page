@@ -1,0 +1,116 @@
+{
+  "header": {
+    "features": "Fonctionnalités",
+    "reviews": "Avis",
+    "pricing": "Tarifs",
+    "terms": "Conditions",
+    "privacy": "Confidentialité",
+    "download": "Télécharger"
+  },
+  "hero": {
+    "title": "Mangez en Sécurité Pendant la Grossesse",
+    "subtitle": "Scannez vos repas et menus pour savoir instantanément ce qui est sûr à manger pendant la grossesse. Pickle identifie les risques en quelques secondes pour votre tranquillité d'esprit.",
+    "headline": "Scannez vos <highlight>repas</highlight> et sachez ce qui est <highlight>sûr</highlight> à manger",
+    "description": "Scannez ou téléchargez simplement des photos de vos aliments ou menus. Obtenez des informations instantanées sur la sécurité, les risques et les recommandations.",
+    "download": "Télécharger l'App",
+    "learnMore": "En savoir plus"
+  },
+  "reviews": {
+    "title": "Ce que disent les futures mamans",
+    "testimonials": [
+      {
+        "quote": "Pickle m'a donné tellement de confiance pour manger au restaurant pendant ma grossesse. Plus d'anxiété sur ce qui est sûr !",
+        "author": "Emma Thompson",
+        "role": "Future Maman",
+        "rating": 5
+      },
+      {
+        "quote": "Enfin, une application qui comprend la nutrition pendant la grossesse. La fonction de scan de menu change tout.",
+        "author": "Maria Rodriguez",
+        "role": "Première Grossesse",
+        "rating": 5
+      },
+      {
+        "quote": "Des recommandations claires et basées sur la science auxquelles je peux faire confiance. Parfait pour naviguer l'alimentation de grossesse en sécurité.",
+        "author": "Aisha Patel",
+        "role": "Nutritionniste & Maman",
+        "rating": 5
+      }
+    ]
+  },
+  "features": {
+    "title": "Comment Fonctionne Pickle",
+    "subtitle": "Technologie avancée de reconnaissance alimentaire qui identifie instantanément les risques de sécurité pendant la grossesse",
+    "items": [
+      {
+        "title": "Scannez Votre Repas",
+        "description": "Prenez une photo ou téléchargez depuis la galerie. Notre IA identifie tous les ingrédients et plats."
+      },
+      {
+        "title": "Analyse de Menu",
+        "description": "Scannez les menus de restaurant pour voir quels plats sont sûrs pendant la grossesse."
+      },
+      {
+        "title": "Résultats Instantanés",
+        "description": "Obtenez des évaluations de sécurité claires, des explications de risques et des recommandations en quelques secondes."
+      },
+      {
+        "title": "Conseils d'Experts",
+        "description": "Recommandations basées sur la science d'experts en nutrition de grossesse."
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Tarification Simple et Transparente",
+    "subtitle": "Choisissez le forfait qui convient le mieux à vous et votre équipe",
+    "plans": {
+      "free": {
+        "name": "Gratuit",
+        "period": "pour toujours",
+        "features": {
+          "scans": "10 scans par mois",
+          "meals": "Analyse de repas basique",
+          "menus": "Scan de menus",
+          "history": "Historique des scans",
+          "export": "Options d'exportation"
+        },
+        "button": "Commencer"
+      },
+      "pro": {
+        "name": "Pro",
+        "period": "par mois",
+        "features": {
+          "scans": "Scans illimités",
+          "meals": "Analyse de repas avancée",
+          "menus": "Scan de menus illimité",
+          "history": "Historique complet des scans",
+          "export": "Export PDF, options de partage"
+        },
+        "button": "Devenir Pro"
+      },
+      "enterprise": {
+        "name": "Entreprise",
+        "period": "contactez-nous",
+        "features": {
+          "everything": "Tout dans Pro",
+          "security": "Sécurité avancée",
+          "dashboard": "Tableau de bord admin",
+          "api": "Accès API",
+          "support": "Support prioritaire 24/7"
+        },
+        "button": "Contacter Commercial"
+      }
+    }
+  },
+  "footer": {
+    "ready": "Prêt à manger en sécurité ?",
+    "join": "Rejoignez des milliers de futures mamans qui font des choix alimentaires éclairés avec Pickle.",
+    "download": "Télécharger Maintenant",
+    "product": "Produit",
+    "company": "Entreprise"
+  },
+  "language": {
+    "en": "Anglais",
+    "fr": "Français"
+  }
+}
